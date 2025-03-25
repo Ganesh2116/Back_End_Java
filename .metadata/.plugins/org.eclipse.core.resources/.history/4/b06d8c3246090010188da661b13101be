@@ -1,0 +1,5 @@
+package custom.pkg;
+//Define an ExceedWeightLimitException for an elevator system when the weight limit is exceeded.
+public class Question17 {
+
+}

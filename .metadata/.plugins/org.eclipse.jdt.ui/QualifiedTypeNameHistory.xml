@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="custom.pkg.AgeNotVaild"/>
+    <fullyQualifiedTypeName name="java.lang.NegativeArraySizeException"/>
+    <fullyQualifiedTypeName name="custom.pkg.NegativeNumberException"/>
+    <fullyQualifiedTypeName name="custom.pkg.DivisionByZeroException"/>
+    <fullyQualifiedTypeName name="custom.pkg.TooYoungException"/>
+    <fullyQualifiedTypeName name="java.lang.IncompatibleClassChangeError"/>
+    <fullyQualifiedTypeName name="custom.pkg.InvalidPasswordException"/>
+    <fullyQualifiedTypeName name="custom.pkg.ProductNotFoundException"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+</qualifiedTypeNameHistroy>
