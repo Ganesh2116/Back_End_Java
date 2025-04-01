@@ -18,7 +18,6 @@
     <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
     <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
     <fullyQualifiedTypeName name="Questions.pkg.InsufficientBalanceException"/>
     <fullyQualifiedTypeName name="Questions.pkg.NegativeNumberException"/>
@@ -29,7 +28,6 @@
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="Thread.pkg.Thread1"/>
     <fullyQualifiedTypeName name="Thread.pkg.MyThread"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.awt.TrayIcon"/>
     <fullyQualifiedTypeName name="Thread.pkg.MatrixRotation"/>
     <fullyQualifiedTypeName name="Thread.pkg.Rotation"/>
@@ -39,11 +37,25 @@
     <fullyQualifiedTypeName name="Thread.pkg.PositiveIntergers"/>
     <fullyQualifiedTypeName name="Thread.pkg.PositiveNum"/>
     <fullyQualifiedTypeName name="Thread.pkg.MinValues"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="Thread.pkg.JoinArr"/>
     <fullyQualifiedTypeName name="Questions.Question01"/>
     <fullyQualifiedTypeName name="javax.imageio.spi.ServiceRegistry"/>
     <fullyQualifiedTypeName name="Questions.InvalidAgeException"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="Questions.pkg.Swaping"/>
+    <fullyQualifiedTypeName name="Questions.pkg.FirstLastSameCharOrNot"/>
+    <fullyQualifiedTypeName name="Questions.pkg.RepeatingEveryChar"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Questions.pkg.ReverseOrderWord"/>
+    <fullyQualifiedTypeName name="Questions.pkg.WordCount"/>
+    <fullyQualifiedTypeName name="Questions.pkg.VowelWords"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="Questions.pkg.ConvertFirstCharUppercase"/>
+    <fullyQualifiedTypeName name="Questions.pkg.NonRepeatingChar"/>
+    <fullyQualifiedTypeName name="Questions.pkg.AnagramCheck"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Questions.pkg.MostRepeatedChar"/>
 </qualifiedTypeNameHistroy>
