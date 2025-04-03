@@ -1,5 +1,0 @@
-package custom.pkg;
-//Write a program that throws a NegativeDepositException if a negative amount is deposited.
-public class Question18 {
-
-}

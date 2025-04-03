@@ -1,5 +1,0 @@
-package custom.pkg;
-//Define an InvalidDateException and throw it if a user enters a date like 31st February
-public class Question21 {
-
-}

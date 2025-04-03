@@ -1,5 +1,0 @@
-package custom.pkg;
-//Create an UnauthorizedAccessException if a user tries to access a restricted area without permission.
-public class Question19 {
-
-}

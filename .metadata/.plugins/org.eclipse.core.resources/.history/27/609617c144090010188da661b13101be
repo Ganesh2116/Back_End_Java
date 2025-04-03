@@ -1,5 +1,0 @@
-package custom.pkg;
-//Create an InsufficientFuelException if a vehicle’s fuel is below 5 liters before a long journey.
-public class Question15 {
-
-}

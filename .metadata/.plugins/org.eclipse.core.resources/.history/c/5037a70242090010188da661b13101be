@@ -1,5 +1,0 @@
-package custom.pkg;
-//Define a MinBalanceException for a bank account, ensuring the balance never goes below ₹1000.
-public class Question12 {
-
-}

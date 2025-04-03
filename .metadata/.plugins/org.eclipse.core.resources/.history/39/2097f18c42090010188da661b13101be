@@ -1,5 +1,0 @@
-package custom.pkg;
-//Implement a SeatFullException in a ticket booking system when no more seats are available.
-public class Question13 {
-
-}
