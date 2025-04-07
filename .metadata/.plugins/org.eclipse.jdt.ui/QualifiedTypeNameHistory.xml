@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
-    <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
-    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
-    <fullyQualifiedTypeName name="Questions.pkg.InsufficientBalanceException"/>
-    <fullyQualifiedTypeName name="Questions.pkg.NegativeNumberException"/>
     <fullyQualifiedTypeName name="Questions.pkg.InvalidAgeException"/>
     <fullyQualifiedTypeName name="Questions.pkg.InvalidPasswordException"/>
     <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="Thread.pkg.Thread1"/>
     <fullyQualifiedTypeName name="Thread.pkg.MyThread"/>
@@ -28,7 +22,6 @@
     <fullyQualifiedTypeName name="Questions.pkg.Swaping"/>
     <fullyQualifiedTypeName name="Questions.pkg.FirstLastSameCharOrNot"/>
     <fullyQualifiedTypeName name="Questions.pkg.RepeatingEveryChar"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="Questions.pkg.ReverseOrderWord"/>
     <fullyQualifiedTypeName name="Questions.pkg.WordCount"/>
     <fullyQualifiedTypeName name="Questions.pkg.VowelWords"/>
@@ -46,18 +39,25 @@
     <fullyQualifiedTypeName name="ArraysQUseingThread.pkg.ClockWise"/>
     <fullyQualifiedTypeName name="ArraysQUseingThread.pkg.Clock_Wise_Thread"/>
     <fullyQualifiedTypeName name="InterfaceThreadUsingRunable.pkg.MyThread"/>
-    <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="InterfaceThreadUsingRunable.pkg.Isomorphic"/>
     <fullyQualifiedTypeName name="Question.pkg.Reverse"/>
     <fullyQualifiedTypeName name="Question.pkg.CountVowels"/>
     <fullyQualifiedTypeName name="Question.pkg.Triangle"/>
     <fullyQualifiedTypeName name="Question.pkg.TransposeTriangle"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="Question.pkg.Palindromic"/>
     <fullyQualifiedTypeName name="Question.pkg.Frequency"/>
     <fullyQualifiedTypeName name="Question.pkg.RowAddition"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="Question.pkg.Anagram"/>
+    <fullyQualifiedTypeName name="Weekly_Questions.Student"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="Weekly_Questions.FirstThread"/>
+    <fullyQualifiedTypeName name="Weekly_Questions.SecondThread"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
