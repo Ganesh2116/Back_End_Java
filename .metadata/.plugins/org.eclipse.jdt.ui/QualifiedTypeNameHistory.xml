@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Questions.pkg.InvalidAgeException"/>
-    <fullyQualifiedTypeName name="Questions.pkg.InvalidPasswordException"/>
-    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
-    <fullyQualifiedTypeName name="Thread.pkg.Thread1"/>
-    <fullyQualifiedTypeName name="Thread.pkg.MyThread"/>
-    <fullyQualifiedTypeName name="java.awt.TrayIcon"/>
-    <fullyQualifiedTypeName name="Thread.pkg.MatrixRotation"/>
-    <fullyQualifiedTypeName name="Thread.pkg.Rotation"/>
-    <fullyQualifiedTypeName name="Thread.pkg.Rotate"/>
-    <fullyQualifiedTypeName name="Thread.pkg.NInterger"/>
-    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthRootPaneUI"/>
-    <fullyQualifiedTypeName name="Thread.pkg.PositiveIntergers"/>
-    <fullyQualifiedTypeName name="Thread.pkg.PositiveNum"/>
-    <fullyQualifiedTypeName name="Thread.pkg.MinValues"/>
-    <fullyQualifiedTypeName name="Thread.pkg.JoinArr"/>
     <fullyQualifiedTypeName name="Questions.Question01"/>
     <fullyQualifiedTypeName name="javax.imageio.spi.ServiceRegistry"/>
     <fullyQualifiedTypeName name="Questions.InvalidAgeException"/>
@@ -59,5 +43,21 @@
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="Weekly_Questions.FirstThread"/>
     <fullyQualifiedTypeName name="Weekly_Questions.SecondThread"/>
+    <fullyQualifiedTypeName name="SleepMethod.pkg.DemoThread"/>
+    <fullyQualifiedTypeName name="CurrentThread.pkg.Thread01"/>
+    <fullyQualifiedTypeName name="JoinMethod.pkg.ThreadClass"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.Mythread"/>
+    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.Thread01"/>
+    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.SimulatesThread"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.Thread00"/>
+    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.ThreadProgram"/>
+    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.ProgramThread"/>
+    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.ProcessingThread"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.ThreadTime"/>
+    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.NumberPrintingThread"/>
+    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.Stopwatch"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
