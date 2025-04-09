@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Questions.Question01"/>
-    <fullyQualifiedTypeName name="javax.imageio.spi.ServiceRegistry"/>
-    <fullyQualifiedTypeName name="Questions.InvalidAgeException"/>
-    <fullyQualifiedTypeName name="Questions.pkg.Swaping"/>
-    <fullyQualifiedTypeName name="Questions.pkg.FirstLastSameCharOrNot"/>
-    <fullyQualifiedTypeName name="Questions.pkg.RepeatingEveryChar"/>
     <fullyQualifiedTypeName name="Questions.pkg.ReverseOrderWord"/>
     <fullyQualifiedTypeName name="Questions.pkg.WordCount"/>
     <fullyQualifiedTypeName name="Questions.pkg.VowelWords"/>
@@ -59,5 +53,11 @@
     <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.ThreadTime"/>
     <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.NumberPrintingThread"/>
     <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.Stopwatch"/>
+    <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
+    <fullyQualifiedTypeName name="DaemonThread.pkg.MyThread"/>
+    <fullyQualifiedTypeName name="DaemonThread.pkg.Normal"/>
+    <fullyQualifiedTypeName name="DaemonThread.pkg.DemoThread"/>
+    <fullyQualifiedTypeName name="DaemonThread.pkg.Thread01"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="DaemonThread.pkg.DaemonThread"/>
 </qualifiedTypeNameHistroy>
