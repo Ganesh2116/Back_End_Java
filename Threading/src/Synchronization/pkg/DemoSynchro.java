@@ -1,4 +1,4 @@
-package Synchromization.pkg;
+package Synchronization.pkg;
 
 class Shared 
 {

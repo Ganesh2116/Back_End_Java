@@ -1,4 +1,4 @@
-package Synchromization.pkg;
+package Synchronization.pkg;
 
 //Write a synchronized method that increments a counter and prints its value
 

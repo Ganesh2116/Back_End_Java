@@ -1,4 +1,4 @@
-package Synchromization.pkg;
+package Synchronization.pkg;
 //Create a class with a synchronized method that prints "Hello" five times
 class Hello extends Thread
 {
