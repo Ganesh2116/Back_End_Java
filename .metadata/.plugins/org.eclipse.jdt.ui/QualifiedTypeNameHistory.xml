@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.Thread01"/>
-    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.SimulatesThread"/>
-    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.Thread00"/>
-    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.ThreadProgram"/>
-    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.ProgramThread"/>
-    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.ProcessingThread"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.ThreadTime"/>
-    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.NumberPrintingThread"/>
-    <fullyQualifiedTypeName name="QuestionsSolvedUsingMethods.pkg.Stopwatch"/>
     <fullyQualifiedTypeName name="DaemonThread.pkg.MyThread"/>
     <fullyQualifiedTypeName name="DaemonThread.pkg.Normal"/>
     <fullyQualifiedTypeName name="DaemonThread.pkg.DemoThread"/>
@@ -32,9 +22,7 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="Synchronization.pkg.Reverse"/>
     <fullyQualifiedTypeName name="Synchronization.pkg.DeleteAlternate"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="Synchronization.pkg.ExtractInt"/>
-    <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="synchronizationBlock.pkg.Demo"/>
     <fullyQualifiedTypeName name="synchronizationBlock.pkg.SynchronizationBolckDemo"/>
     <fullyQualifiedTypeName name="synchronizationBlock.pkg.displayShared"/>
@@ -54,10 +42,22 @@
     <fullyQualifiedTypeName name="synchronizationBlock.pkg.Banking"/>
     <fullyQualifiedTypeName name="synchronizationBlock.pkg.Question07"/>
     <fullyQualifiedTypeName name="synchronizationBlock.pkg.SharecClasss"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="synchronizationBlock.pkg.DataAppEnd"/>
     <fullyQualifiedTypeName name="synchronizationBlock.pkg.SequenceNum"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="Questions.pkg.PalindromeCheck"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="Questions.pkg.MaxEle"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="Questions.pkg.VowelsAllTo"/>
+    <fullyQualifiedTypeName name="Questions.pkg.ReverseEachWord"/>
+    <fullyQualifiedTypeName name="Questions.pkg.Count"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="Questions.pkg.Convert"/>
+    <fullyQualifiedTypeName name="Questions.pkg.Anagrams"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Questions.pkg.Display"/>
 </qualifiedTypeNameHistroy>
