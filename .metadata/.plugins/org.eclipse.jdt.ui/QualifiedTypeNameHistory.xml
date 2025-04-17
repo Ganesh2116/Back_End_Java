@@ -40,13 +40,11 @@
     <fullyQualifiedTypeName name="synchronizationBlock.pkg.DataAppEnd"/>
     <fullyQualifiedTypeName name="synchronizationBlock.pkg.SequenceNum"/>
     <fullyQualifiedTypeName name="Questions.pkg.PalindromeCheck"/>
-    <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="Questions.pkg.MaxEle"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="Questions.pkg.VowelsAllTo"/>
     <fullyQualifiedTypeName name="Questions.pkg.ReverseEachWord"/>
     <fullyQualifiedTypeName name="Questions.pkg.Count"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="Questions.pkg.Convert"/>
     <fullyQualifiedTypeName name="Questions.pkg.Anagrams"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -60,4 +58,6 @@
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="StaticSynchroization.pkg.Booking"/>
     <fullyQualifiedTypeName name="StaticSynchroization.pkg.Thread01"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
 </qualifiedTypeNameHistroy>
